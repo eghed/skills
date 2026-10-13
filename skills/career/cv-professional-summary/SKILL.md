@@ -16,7 +16,7 @@ This file is meant to be edited. Change the settings first. Change the process o
 | Setting | Default |
 |---|---|
 | Perspective | Third person. Never "I", "my" or "me". |
-| Opening | Candidate's first name as the subject ("Maja is a senior data scientist..."). A name-less opening ("Senior data engineer with 9 years...") is fine when the name would feel repetitive. |
+| Opening | Candidate's first name as the subject ("Ping is a senior data scientist..."). A name-less opening ("Senior data engineer with 9 years...") is fine when the name would feel repetitive. |
 | Length | As long as it takes to sell, usually 3 to 5 sentences. No word cap. Cut any sentence that does not make the reader more interested. |
 | Language | Match the language of the CV and the job description. |
 | Tone | Confident, plain, specific. Simple words, short sentences, natural rhythm. |
